@@ -158,11 +158,10 @@ When code explains itself — architecture is working.
 
 ---
 
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=80&section=footer" />
-
-<img src="https://visitcount.itsvg.in/api?id=jewelhasan47&icon=0&color=0" />
-
+  <sub>© Jewel Hasan · Clean Architecture · Scalable Systems</sub>
 </div>
+
 
