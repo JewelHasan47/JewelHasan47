@@ -1,15 +1,168 @@
+<!-- ================= HERO ================= -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JewelHasan47) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JewelHasan47) 
+<div align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jewelhasan47&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jewelhasan47&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelhasan47&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=190&section=header&text=Jewel%20Hasan&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+
+<h3 style="font-family: 'Segoe UI', Roboto, Ubuntu, sans-serif; font-weight:600;">
+🚀 Senior Full‑Stack Developer · 🧠 System Designer · 🧑‍🏫 Technical Mentor
+</h3>
+
+<p style="font-family: 'Segoe UI', Roboto, Ubuntu, sans-serif; max-width:700px;">
+I design <b>scalable</b>, <b>maintainable</b>, and <b>team‑friendly</b> software systems where architecture enables velocity — not friction.
+</p>
+
+<p>
+<a href="https://linkedin.com/in/JewelHasan47"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/JewelHasan47"><img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white" /></a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jewelhasan47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 About Me
+
+> 🧩 **Architecture‑first mindset**  
+> 🛠 **Contracts over conventions**  
+> 🌱 **Mentorship‑friendly codebases**
+
+I specialize in building systems where:
+
+* Senior developers define **clear boundaries**
+* Junior developers extend features **without touching core logic**
+* Complexity stays **localized and testable**
+
+```text
+"If a new developer needs tribal knowledge, the architecture already failed."
+```
+
+---
+
+## 🧠 Core Design Principles
+
+| Icon  | Principle          | Description                          |
+| ----- | ------------------ | ------------------------------------ |
+| 🧩    | Modularity         | Feature isolation, no tight coupling |
+| 📜    | Explicit Contracts | Interfaces, DTOs, Specifications     |
+| 🔁    | Predictable State  | Immutable flows, single ownership    |
+| 🧪    | Testability        | Thin layers, easy mocking            |
+| 🧑‍🏫 | Mentorship         | Safe extension paths for juniors     |
+
+---
+
+## 💻 Tech Stack
+
+### 🅰️ Angular Ecosystem
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts&theme=dark" />
+</p>
+
+* ⚡ Signal-based APIs (Angular 18+)
+* 🧠 NGRX Signal Store
+* 🧩 Feature-first modular routing
+
+---
+
+### 🌱 Laravel & PHP
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php&theme=dark" />
+</p>
+
+* 🧾 Specification Pattern (Module-oriented)
+* 🧱 Thin Controllers, Rich Services
+* 🧪 PHPUnit / Pest friendly design
+
+---
+
+### ☕ Java & Spring Boot
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+</p>
+
+* 🧩 Clean layered architecture
+* 📦 DTOs, Records, Validation
+* 🔒 Security & scalability ready
+
+---
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" />
+</p>
+
+* 🔁 Transaction-safe design
+* 📊 Query optimization mindset
+
+---
+
+### 🎨 Styling & UI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" />
+</p>
+
+---
+
+## 🧩 Architecture Snapshot
+
+```text
+Frontend (Angular 18+)
+ ├─ Signal-based State
+ ├─ NGRX Signal Store
+ ├─ Feature-first Modules
+ └─ Contract-driven Services
+
+Backend (Laravel / Spring Boot)
+ ├─ Module-oriented Structure
+ ├─ Specification Pattern
+ ├─ DTOs & Policies
+ └─ Thin Controllers
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jewelhasan47&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jewelhasan47&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewelhasan47&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔍 Current Focus
+
+* ⚡ Angular Signal‑based Architecture
+* 📐 Specification Pattern (Laravel Modules)
+* 🛡 Report & Moderation Systems
+* 🏗 Long‑term Maintainability for Large Teams
+
+---
+
+## ✨ Design Philosophy
+
+```text
+Good design is quiet.
+When code explains itself — architecture is working.
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=80&section=footer" />
+
+<img src="https://visitcount.itsvg.in/api?id=jewelhasan47&icon=0&color=0" />
+
+</div>
+
