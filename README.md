@@ -119,7 +119,6 @@ Frontend (Angular 18+)
 
 Backend (Laravel / Spring Boot)
  ├─ Module-oriented Structure
- ├─ Specification Pattern
  ├─ DTOs & Policies
  └─ Thin Controllers
 ```
